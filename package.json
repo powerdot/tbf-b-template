@@ -1,0 +1,15 @@
+{
+  "name": "tbf-b-template",
+  "version": "1.0.0",
+  "description": "<img src=\"https://github.com/powerdot/Telegram-Bot-Framework/blob/master/assets/head1-crop-trans.png\" width=400/>",
+  "main": "index.js",
+  "dependencies": {
+    "@powerdot/telegram_bot_framework": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
